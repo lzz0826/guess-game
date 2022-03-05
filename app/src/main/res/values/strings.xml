@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">GuessGame</string>
+    <string name="title_01">猜數字遊戲,請選擇難度</string>
+    <string name="button_new">新遊戲</string>
+    <string name="button3">3個數字</string>
+    <string name="button4">4個數字</string>
+    <string name="button5">5個數字</string>
+    <string name="button6">6個數字</string>
+    <string name="button_01">1</string>
+    <string name="button_02">2</string>
+    <string name="button_03">3</string>
+    <string name="button_04">4</string>
+    <string name="button_05">5</string>
+    <string name="button_06">6</string>
+    <string name="button_07">7</string>
+    <string name="button_08">8</string>
+    <string name="button_09">9</string>
+    <string name="button_00">0</string>
+    <string name="button_home">回首頁</string>
+    <string name="display">顯示解果</string>
+
+
+</resources>
